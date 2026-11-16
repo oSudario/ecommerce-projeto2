@@ -1,11 +1,5 @@
 # E-commerce — Projeto 2
 
-Continuação do código inicial do professor, usando InversifyJS 7 para montar as dependências.
-
-## Como rodar
-
-Com Node.js 20 ou superior, abra o terminal na pasta do projeto:
-
 ```bash
 npm install
 ```
